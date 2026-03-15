@@ -49,7 +49,7 @@ Translating complex data into sleek, performant, and secure enterprise interface
 
 ### 📫 Contact
 * 📍 **Paris, France**
-* 💼 [LinkedIn Profile](https://www.linkedin.com/in/YOUR_PROFILE)
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/romain-penco-35281885/)
 
 ---
 <p align="right">
